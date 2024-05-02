@@ -9,7 +9,7 @@ if(1) {
             html += `
             <div class="talk_item">
                 <div class="talk_meta">
-                    <img class="nolazyload avatar" src="https://pic.imgdb.cn/item/65f5513d9f345e8d033947bb.webp"> //修改为你自己的头像
+                    <img class="nolazyload avatar" src="https://pic.imgdb.cn/item/65f5513d9f345e8d033947bb.webp">
                     <div class="info">
                         <span class="talk_nick">${item.avatar}${icon}</span>
                         <span class="talk_date">${item.date}</span>
