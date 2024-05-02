@@ -4424,6 +4424,7 @@ body[data-type='about'] #web_bg {
   font-size: 36px;
   font-weight: 700;
   line-height: 1.1;
+  color: #99c26c !important;
 }
 .author-content-item.map {
   min-height: 160px;
