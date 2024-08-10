@@ -1,0 +1,28 @@
+// 按钮反馈
+.container .components,
+#console .button-group .console-btn-item,
+#nav .menus_items .menus_item .menus_item_child li,
+#nav #site-name,
+#aside-content .card-widget .card-info-social-icons .social-icon,
+#page-header #nav #nav-right .nav-button a.totopbtn,
+.author-content-item .card-content .banner-button-group,
+.topGroup .banner-button,
+#footer-wrap #footer_deal .footer_mini_logo,
+#footer-wrap #footer_deal .deal_link,
+#page-header.nav-fixed #nav #page-name,
+.back-home-button .back-menu-list .back-menu-item,
+#aside-content .card-info #author-info__sayhi,
+.ai-btn-item,
+#ai-tag,
+#rightside > div > button, 
+#rightside > div > a,
+#article-container .tabs>.nav-tabs .tab,
+div#danmu-Btn button.hide-Btn,
+#flink_sphere .flink_sphereBtn button
+  // transition: all 0.2s !important
+  transition: all 0.3s ease 0s !important
+  &:active
+    transform: scale(.85) !important
+
+#bbTimeList:active
+  transform: scale(.97)
