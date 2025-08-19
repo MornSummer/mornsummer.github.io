@@ -70,7 +70,7 @@ class ProgressiveLoad {
     smallSrc: 'https://pic1.imgdb.cn/item/68a416d458cb8da5c836edd9.webp', // 小图链接 尽可能配置小于100k的图片
     largeSrc: 'https://pic1.imgdb.cn/item/68a417d958cb8da5c836fbd3.webp', // 大图链接 最终显示的图片
     mobileSmallSrc: 'https://pic1.imgdb.cn/item/68a4256a58cb8da5c8378f0d.webp', // 手机端小图链接 尽可能配置小于100k的图片
-    mobileLargeSrc: 'https://pic1.imgdb.cn/item/68a4256a58cb8da5c8378f0d.webp', // 手机端大图链接 最终显示的图片
+    mobileLargeSrc: 'https://pic1.imgdb.cn/item/68a4256a58cb8da5c8378f0f.webp', // 手机端大图链接 最终显示的图片
     enableRoutes: ['/'],
     };
 
