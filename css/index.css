@@ -20238,7 +20238,7 @@ a
   overflow: visible;
 }
 .el-input.el-input--small.el-input-group.el-input-group--prepend:nth-child(1):before {
-  content: "输入QQ号会自动获取昵称和头像🐧";
+  content: "输入QQ号会自动获取头像，届时可以再输入昵称哦🐧";
 }
 .el-input.el-input--small.el-input-group.el-input-group--prepend:nth-child(2):before {
   content: "收到回复将会发送到您的邮箱📧";
